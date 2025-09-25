@@ -1,4 +1,5 @@
 # Linux Shell Scripting: A Project-Based Approach to Learning
+![Course on Udemy](course.png)
 
 This repository contains my hands-on exercises and project code from the Udemy course [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/?couponCode=LETSLEARNNOW).
 
